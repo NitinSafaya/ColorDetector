@@ -1,0 +1,6 @@
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector\bin\Release\ColorDetector.dll
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector\bin\Release\ColorDetector.pdb
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector\obj\Release\ColorDetector.csprojAssemblyReference.cache
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector\obj\Release\ColorDetector.csproj.CoreCompileInputs.cache
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector\obj\Release\ColorDetector.dll
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector\obj\Release\ColorDetector.pdb

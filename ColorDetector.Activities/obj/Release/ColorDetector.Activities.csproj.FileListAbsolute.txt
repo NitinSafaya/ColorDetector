@@ -1,0 +1,9 @@
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector.Activities\bin\Release\ColorDetector.Activities.dll
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector.Activities\bin\Release\ColorDetector.Activities.pdb
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector.Activities\bin\Release\ColorDetector.dll
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector.Activities\bin\Release\ColorDetector.pdb
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector.Activities\obj\Release\ColorDetector.Activities.csprojAssemblyReference.cache
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector.Activities\obj\Release\ColorDetector.Activities.csproj.CoreCompileInputs.cache
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector.Activities\obj\Release\ColorDetector.Activities.csproj.CopyComplete
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector.Activities\obj\Release\ColorDetector.Activities.dll
+C:\Users\nitin\source\repos\ColorDetector\ColorDetector.Activities\obj\Release\ColorDetector.Activities.pdb
